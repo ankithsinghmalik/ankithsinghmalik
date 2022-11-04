@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankithsinghmalik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Machine Learning , Statistics , Data Science 
+- 🌱 I’m currently learning ... How to Build a Data Piepline and Deployment of the Models on the Cloud
+- 💞️ I’m looking to collaborate on ... Data Science Projects Involving Real Case Studies 
 - 📫 How to reach me ... ankithsingh.work@gmail.com 
 
 <!---
