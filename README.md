@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Machine Learning , Statistics , Data Science 
 
 
-- 🌱 I’m currently learning ... How to Build a Data Piepline and Deployment of the Models on the Cloud
+- 🌱 I’m currently learning ... How to Build a Data Pipeline and Deployment of the Models on the Cloud
 
 
 - 💞️ I’m looking to collaborate on ... Data Science Projects Involving Real Case Studies 
